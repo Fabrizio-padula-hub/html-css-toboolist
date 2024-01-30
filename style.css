@@ -5,6 +5,19 @@
 }
 
 body{
-    background-color: f6f8f9;
+    background-color: #f6f8f9;
     font-family: 'Roboto', sans-serif;
+}
+
+.box{
+    background-color: white;
+    padding: 20px 10px;
+}
+h1{
+    font-size: 43px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo{
+    vertical-align: middle;
 }
