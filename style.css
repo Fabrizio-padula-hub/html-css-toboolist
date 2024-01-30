@@ -21,3 +21,23 @@ h1{
 .logo{
     vertical-align: middle;
 }
+
+main{
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 24px;
+    padding: 15px 25px;
+}
+
+button{
+    font-size: 15px;
+    padding: 7px;
+    border-radius: 7px;
+    color: #c4cbd0;
+    border: none;
+}
+.add-task{
+    background-color: #14aaf5;
+    color: white;
+}
