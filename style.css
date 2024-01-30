@@ -112,7 +112,7 @@ Fine Bottoni
     font-size: 12px;
     margin-bottom: 7px;
 }
-.q1-goals{
+.recruiting{
     display: inline-block;
     background-color: #ab5de6;
     padding: 5px 9px;
@@ -139,3 +139,22 @@ Fine Bottoni
     font-size: 12px;
     margin-bottom: 7px;
 }
+.website{
+    display: inline-block;
+    background-color: #ec4a9d;
+    padding: 5px 9px;
+    border-radius: 12px;
+    color: white;
+    font-size: 12px;
+    margin: 7px;
+}
+.sales{
+    display: inline-block;
+    background-color: #a3d116;
+    padding: 5px 9px;
+    border-radius: 12px;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
