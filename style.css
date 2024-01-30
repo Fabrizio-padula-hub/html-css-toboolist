@@ -22,22 +22,58 @@ h1{
     vertical-align: middle;
 }
 
+
 main{
     width: 800px;
     margin: 0 auto;
     background-color: white;
     margin-top: 24px;
-    padding: 15px 25px;
+    padding: 15px 40px;
 }
 
+/*---------
+Bottoni 
+----------*/
 button{
     font-size: 15px;
     padding: 7px;
     border-radius: 7px;
     color: #c4cbd0;
-    border: none;
+    border: 1px solid lightgrey;
+    background-color: white;
 }
 .add-task{
     background-color: #14aaf5;
     color: white;
+    border: none;
+}
+.pulsanti{
+    margin-bottom: 30px;
+    border-bottom: 2px solid  #f6f8f9;
+    padding: 10px;
+}
+/*---------
+Fine Bottoni 
+----------*/
+
+.spunta-v{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid #a8e7dc;
+    border-radius: 100%;
+    color: #a8e7dc;
+    text-align: center;
+    line-height: 100%;
+    margin-right: 5px;
+
+}
+
+.editorial{
+    display: inline-block;
+    background-color: #09a9ed;
+    padding: 8px;
+    border-radius: 12px;
+    color: white;
+    font-size: 12px;
 }
