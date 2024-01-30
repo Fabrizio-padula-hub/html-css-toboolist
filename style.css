@@ -56,6 +56,16 @@ button{
 Fine Bottoni 
 ----------*/
 
+.new-task{
+    margin-bottom: 30px;
+}
+.today{
+    margin-bottom: 30px;
+}
+
+/*---------
+ Spunte
+ ---------*/
 .spunta-v{
     display: inline-block;
     width: 20px;
@@ -66,14 +76,66 @@ Fine Bottoni
     text-align: center;
     line-height: 100%;
     margin-right: 5px;
-
 }
+.spunta-x{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 3px solid red;
+    border-radius: 100%;
+    color: red;
+    text-align: center;
+    line-height: 100%;
+    margin-right: 5px;
+}
+/*---------
+ /fine Spunte
+ ---------*/
+
+
 
 .editorial{
     display: inline-block;
     background-color: #09a9ed;
-    padding: 8px;
+    padding: 5px 9px;
     border-radius: 12px;
     color: white;
     font-size: 12px;
+    margin-bottom: 7px;
+}
+.q1-goals{
+    display: inline-block;
+    background-color: #ab5de6;
+    padding: 5px 9px;
+    border-radius: 12px;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+.q1-goals{
+    display: inline-block;
+    background-color: #ab5de6;
+    padding: 5px 9px;
+    border-radius: 12px;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+.recruiting{
+    display: inline-block;
+    background-color: #2cc6ab;
+    padding: 5px 9px;
+    border-radius: 12px;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+.mobile{
+    display: inline-block;
+    background-color: #ff9b00;
+    padding: 5px 9px;
+    border-radius: 12px;
+    color: white;
+    font-size: 12px;
+    margin-bottom: 7px;
 }
